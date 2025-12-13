@@ -71,37 +71,6 @@ Compare ANOVA and multiple t-tests for detecting differences in means across thr
 
 - All random simulations should use a fixed seed for reproducibility (e.g., `np.random.seed(42)`).
 - Plots and results should include clear labels, legends, and descriptions to facilitate interpretation.
-# Statistics for Data Analytics
-
-**Module:** Applied Statistics  
-**Author:** Finian Doonan
-
-## Overview
-This repository contains a Jupyter Notebook with four simulation-based exercises covering key topics in applied statistics, including randomisation tests, sampling variability, hypothesis testing, and ANOVA. All analysis is performed using Python and is fully reproducible.
-
----
-
-## Exercises
-
-### 1. Lady Tasting Tea (Extended)
-- Extension of Fisher’s classic experiment to 12 cups (8 tea-first, 4 milk-first)
-- Monte Carlo simulation to estimate the probability of a perfect classification by chance
-- Comparison with the original 8-cup experiment
-
-### 2. Normal Distribution
-- Sampling from a standard normal distribution
-- Comparison of sample (`ddof=1`) vs population (`ddof=0`) standard deviation
-- Visualisation of bias and variability for small samples
-
-### 3. t-Tests and Type II Error
-- Simulation-based analysis of Type II error rates
-- Effect of increasing mean difference on statistical power
-- Results summarised with informative plots
-
-### 4. ANOVA vs Multiple t-Tests
-- Comparison of one-way ANOVA and pairwise t-tests across three groups
-- Illustration of inflated Type I error when using multiple t-tests
-- Justification for ANOVA as the preferred method
 
 ---
 
@@ -122,10 +91,8 @@ This repository contains a Jupyter Notebook with four simulation-based exercises
 
 ## Links
 
--  **Jupyter Notebook:** [`statistics.ipynb`](./statistics.ipynb)
-- **NumPy Documentation:** [https://numpy.org/doc/](https://numpy.org/doc/)
-- **SciPy Statistics:** [https://docs.scipy.org/doc/scipy/reference/stats.html](https://docs.scipy.org/doc/scipy/reference/stats.html)
--  **Matplotlib:** [https://matplotlib.org/stable/index.html](https://matplotlib.org/stable/index.html)
-- **Fisher’s Lady Tasting Tea:** [https://en.wikipedia.org/wiki/Lady_tasting_tea](https://en.wikipedia.org/wiki/Lady_tasting_tea)
-
-
+- [**Jupyter Notebook**](https://github.com/fin81985/applied-statistics/blob/main/problems.ipynb)
+- [**NumPy Documentation**](https://numpy.org/doc/)
+- [**SciPy Statistics**](https://docs.scipy.org/doc/scipy/reference/stats.html)
+- [**Matplotlib**](https://matplotlib.org/stable/index.html)
+- [**Fisher’s Lady Tasting Tea**](https://en.wikipedia.org/wiki/Lady_tasting_tea)
