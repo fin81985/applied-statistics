@@ -1,12 +1,7 @@
 ipython
-numpy
-scipy
-statsmodels
-matplotlib
-pandas
-seaborn
-sympy
-nose
-scikit-learn
-qiskit[visualization]
-yfinance
+Python 3
+NumPy
+SciPy
+Matplotlib
+Pandas
+Statsmodels
