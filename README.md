@@ -1,9 +1,10 @@
 # Statistics for data analytics
 
 Module: Applied Statistics
+
 Author: Finian Doonan
 
-This repository contains a Jupyter Notebook implementing four statistical exercises: extensions of the Lady Tasting Tea experiment, sampling from normal distributions, t-tests, and ANOVA.
+This repository contains a Jupyter Notebook [problems.ipynb](https://github.com/fin81985/applied-statistics/blob/main/problems.ipynb) implementing four statistical exercises: extensions of the Lady Tasting Tea experiment, sampling from normal distributions, t-tests, and ANOVA.
 
 ---
 
@@ -85,14 +86,17 @@ Compare ANOVA and multiple t-tests for detecting differences in means across thr
 - NumPy
 - SciPy
 - Matplotlib
-- Jupyter Notebook
-
+- Pandas
+- Statsmodels
 ---
 
 ## Links
 
-- [**Jupyter Notebook**](https://github.com/fin81985/applied-statistics/blob/main/problems.ipynb)
-- [**NumPy Documentation**](https://numpy.org/doc/)
-- [**SciPy Statistics**](https://docs.scipy.org/doc/scipy/reference/stats.html)
-- [**Matplotlib**](https://matplotlib.org/stable/index.html)
-- [**Fisher’s Lady Tasting Tea**](https://en.wikipedia.org/wiki/Lady_tasting_tea)
+- [Python Math Library](https://docs.python.org/3/library/math.html)
+- [Python Itertools](https://docs.python.org/3/library/itertools.html)
+- [Python Random Module](https://docs.python.org/3/library/random.html)
+- [Pandas Documentation](https://pandas.pydata.org/docs/)
+- [NumPy Documentation](https://numpy.org/doc/)
+- [Matplotlib Documentation](https://matplotlib.org/stable/contents.html)
+- [SciPy Stats](https://docs.scipy.org/doc/scipy/reference/stats.html)
+- [Statsmodels Documentation](https://www.statsmodels.org/stable/index.html)
